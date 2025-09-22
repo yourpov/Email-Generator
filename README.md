@@ -13,7 +13,7 @@
 
 ## About
 
-**Email-Generator** is a Go that generates test emails
+**Email-Generator** is a utility that generates test emails
 
 ## Tech Stack
 
